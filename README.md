@@ -1,6 +1,6 @@
-# Free-Camera-Script
+### VR-Spectate-Camera
 
-**THIS WAS MADE FOR OCULUS HEADSETS I DONT KNOW IF IT WORKS FOR OTHER BRANDED HEADSETS**
+*THIS WAS MADE FOR OCULUS HEADSETS I DONT KNOW IF IT WORKS FOR OTHER BRANDED HEADSETS*
 
 *(make sure the depth on the freecam is higher than the centereyeanchor camera)*
 ![image](https://user-images.githubusercontent.com/107813339/198142750-5bf8dd49-2dc5-40c0-b58e-eddf224719f6.png)
